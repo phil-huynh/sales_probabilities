@@ -21,7 +21,7 @@ const App = (props) => {
   return (
     <div
       className="App"
-      style={{ background: background(), height: "100%", paddingTop: "2%" }}
+      style={{ background: background(), height: "100vh", paddingTop: "2%" }}
     >
       <ThemeProvider theme={darkTheme}>
         <LightSwitch />

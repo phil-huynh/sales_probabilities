@@ -4,5 +4,5 @@ import { useContextStore } from "../Context.js";
 
 export default function Product({ product, style }) {
   const { pilyTeal } = useContextStore();
-  return <Chip sx={{ ...style, background: pilyTeal }} label={product} />;
+  return <Chip sx={{ ...style, background: pilyTeal , color: "black"}} label={product} />;
 }
