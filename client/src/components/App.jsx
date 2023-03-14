@@ -26,7 +26,7 @@ const App = (props) => {
       <ThemeProvider theme={darkTheme}>
         <LightSwitch />
         <TableTitle
-          tableTitle="PILYTIX Scored Opportunities"
+          tableTitle="Scored Opportunities"
           color={pilyTeal}
           background={background()}
         />

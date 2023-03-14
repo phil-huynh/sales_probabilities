@@ -85,7 +85,7 @@ export default function BasicTable() {
             </TableCell>
             <TableCell sx={titleStyle} align="right">
               <SortableField
-                label={"PX Probability"}
+                label={"Company Probability"}
                 field={"pilytixProbability"}
                 setField={setSortField}
                 setType={setSortType}

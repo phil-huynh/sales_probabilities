@@ -52,7 +52,7 @@ export default function Probabilities() {
     <div style={{ height: "95%" }}>
       <Paper elevation={10} sx={style}>
         <DoughnutChart
-          labels={["Pilytix Probability", ""]}
+          labels={["Company Probability", ""]}
           chartData={formatData(selected.pilytixProbability)}
           color={colorData(pilyTeal)}
           plugin={pilyProb}

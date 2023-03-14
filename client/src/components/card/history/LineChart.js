@@ -64,7 +64,7 @@ export default function LineChart() {
     labels,
     datasets: [
       {
-        label: "Pilytix Probability",
+        label: "Company Probability",
         data: pilProbs,
         borderColor: pilyTeal,
         backgroundColor: pilyTeal,
