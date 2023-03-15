@@ -7,6 +7,8 @@ export default function HistoryWindow() {
   const { selected } = useContextStore();
 
   return (
-    <>{selected.probabilityHistory ? <LineChart /> : <MissingHistory />}</>
+    <>
+      {selected.probabilityHistory ? <LineChart /> : <MissingHistory />}
+    </>
   );
 }

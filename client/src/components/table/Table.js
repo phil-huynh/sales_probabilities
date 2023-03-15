@@ -119,14 +119,15 @@ export default function BasicTable() {
           {data
             .sort((a, b) =>
               sortField === "pilytixTier" && sortType === "ascend"
-                ? Number(a[sortField].split(" ")[0]) -
-                  Number(b[sortField].split(" ")[0])
-                : sortField === "pilytixTier" && sortType === "descend"
-                ? Number(b[sortField].split(" ")[0]) -
-                  Number(a[sortField].split(" ")[0])
-                : sortField && sortType === "ascend"
+                ? Number(a[sortField].split(" ")[0]) - Number(b[sortField].split(" ")[0])
+                :
+                  sortField === "pilytixTier" && sortType === "descend"
+                ? Number(b[sortField].split(" ")[0]) - Number(a[sortField].split(" ")[0])
+                :
+                  sortField && sortType === "ascend"
                 ? Number(a[sortField]) - Number(b[sortField])
-                : sortField && sortType === "descend"
+                :
+                  sortField && sortType === "descend"
                 ? Number(b[sortField]) - Number(a[sortField])
                 : data
             )
