@@ -4,10 +4,10 @@
 <img src="readmeAssets/Screen Shot 2023-03-17 at 12.01.41 AM.png" width=800 />
 <img src="readmeAssets/Screen Shot 2023-03-17 at 12.02.00 AM.png" width=800 />
 <img src="readmeAssets/Screen Shot 2023-03-17 at 12.02.37 AM.png" width=800 />
-<img src="readmeAssets/Screen Shot 2023-03-17 at 12.03.14 AM.png" width=400 />
-<img src="readmeAssets/Screen Shot 2023-03-17 at 12.03.28 AM.png" width=400 />
-<img src="readmeAssets/Screen Shot 2023-03-17 at 12.03.39 AM.png" width=400 />
-<img src="readmeAssets/Screen Shot 2023-03-17 at 12.05.57 AM.png" width=400 />
+<img src="readmeAssets/Screen Shot 2023-03-17 at 12.03.14 AM.png" width=350 />
+<img src="readmeAssets/Screen Shot 2023-03-17 at 12.03.28 AM.png" width=350 />
+<img src="readmeAssets/Screen Shot 2023-03-17 at 12.03.39 AM.png" width=350 />
+<img src="readmeAssets/Screen Shot 2023-03-17 at 12.05.57 AM.png" width=350 />
 
 
 
