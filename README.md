@@ -28,5 +28,5 @@ $ npm run dev
 $ npm run build
 
 # view at
-$ localhost:5173
+$ localhost:3000
 ```
